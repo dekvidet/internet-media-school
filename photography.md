@@ -7,6 +7,7 @@
 | [Exposure triangle](https://photographylife.com/what-is-exposure-triangle) | fundamental | article
 | [Equivalent exposures](https://www.youtube.com/watch?v=KIQ05ZMcWxU) | optional | video
 | [ISO](https://www.youtube.com/watch?v=q8cj9Lj9w-g) | fundamental | video
+| [ISO](https://www.youtube.com/watch?v=WEApLA-YNko) | fundamental | video
 | [Aperture](https://www.youtube.com/watch?v=YojL7UQTVhc) | fundamental | video
 | [Aperture & DOF](https://www.youtube.com/watch?v=EdxKl5np9KE) | fundamental | video
 | [Bokeh](https://www.youtube.com/watch?v=MnnkKI2sTZ8) | intermediate | video
@@ -77,3 +78,17 @@
 ## Lists, online courses & other resources
 - [Photography terms](https://www.apotelyt.com/photo-terms/imaging-glossary)
 - [Digital Photography Lecture by Marc Levoy](https://sites.google.com/site/marclevoylectures/home)
+
+## History of Photography
+
+### Famous photos
+| Topic | Importance | Media Type | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [1966 Mao Zedung swimming in a river](https://www.youtube.com/watch?v=kXByOrRrO7c) | optional | video
+| [1919 A total solar eclipse](https://www.youtube.com/watch?v=HLxvq_M4218) | optional | video
+| [1900s Child labour photos](https://www.youtube.com/watch?v=ddiOJLuu2mo) | optional | video
+| [1840 Hippolyte Bayard fake death photo](https://www.youtube.com/watch?v=SXe9WCeccOw) | optional | video
+| [1945 Raising a Flag over the Reichstag](https://www.youtube.com/watch?v=4HchGsN7eM4) | optional | video
+
+| [1840 Hippolyte Bayard fake death photo](https://www.youtube.com/watch?v=SXe9WCeccOw) | optional | video
+
