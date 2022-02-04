@@ -28,10 +28,21 @@
 | [Camera syncing with timecode](https://www.youtube.com/watch?v=e_JkIoULmfA) | optional | video
 | [Blackbird car VR dummy](https://www.youtube.com/watch?v=OnBC5bwV5y0) | optional | video
 
+## Cinematography Techniques
+| Topic | Importance | Media Type | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [Components of a Cinematic Video](https://www.youtube.com/watch?v=u4RyYYwIZtE) | fundamental | video
+
+## History of Cinema
+| Topic | Importance | Media Type | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [History of miniatures](https://www.youtube.com/watch?v=T6NJ3EZpBRA) | optional | video
+
 ## Cinematography analysis
 | Topic | Importance | Media Type | Description |
 | ------------- | ------------- | ------------- | ------------- |
-| [Rain in Dacid Fincher's films](https://www.youtube.com/watch?v=vG2ovuMksVM) | optional | video
+| [Rain in David Fincher's films](https://www.youtube.com/watch?v=vG2ovuMksVM) | optional | video
+| [Visual Effects in the 80s](https://www.youtube.com/watch?v=tyixMpuGEL8) | optional | video | Analysis of the Flight of the Navigator
 
 ## Behind the Scenes
 | Topic | Importance | Media Type | Description |
@@ -43,3 +54,13 @@
 | [Olimpic broadcasting London 2012](https://www.youtube.com/watch?v=34L3l_haZLc) | optional | video
 | [Olimpic Broadcasting Rio 2016](https://www.youtube.com/watch?v=-S3g7EmDGoQ) | optional | video
 | [Lakewood Church tour](https://www.youtube.com/watch?v=fgcz2cjrB_E) | optional | video
+| [Grand Budapest Hotel Miniature Effects](https://www.youtube.com/watch?v=tz6tCq7jsUI) | optional | video
+| [Batman Begins Miniatures](https://www.youtube.com/watch?v=1eAuegQUd3I) | optional | video
+
+## Paid courses
+
+| Topic | Importance | Media Type | Description |
+| ------------- | ------------- | ------------- | ------------- |
+| [Hollywood Camera Work Master Course](https://www.hollywoodcamerawork.com/the-master-course-in-high-end-blocking-and-staging.html) | optional | video
+| [Hollywood Camera Work Hot Moves](https://www.hollywoodcamerawork.com/hot-moves-the-science-of-awesome.html) | optional | video
+| [Andbery Cinematic Light](https://andbery.com/c-light-course) | optional | video
