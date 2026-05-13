@@ -5,37 +5,37 @@ Legend:
 - 🟡 intermediate
 - 🔴 expert
 - 📘 fundamental
-- 📗 advanced
+- 📗 optional
 - 📚 in-depth
 
 ## Theoretical Basics
-- [📘 Introduction](https://www.youtube.com/watch?v=My1Z2_e4EPI) | optional | video
-- [📘 Exposure triangle](https://photographylife.com/what-is-exposure-triangle) | fundamental | article
-- [Equivalent exposures](https://www.youtube.com/watch?v=KIQ05ZMcWxU) | optional | video
-- [📘 ISO](https://www.youtube.com/watch?v=q8cj9Lj9w-g) | fundamental | video
-- [ISO](https://www.youtube.com/watch?v=WEApLA-YNko) | fundamental | video
+- [📗 Introduction](https://www.youtube.com/watch?v=My1Z2_e4EPI): General overview of the exposure triangle, focus and other camera functions.
+- [📘 Exposure triangle](https://photographylife.com/what-is-exposure-triangle): Illustrated article explaining components of the exposure triangle.
+- [📗 Equivalent exposures](https://www.youtube.com/watch?v=KIQ05ZMcWxU)
+- [📘 ISO](https://www.youtube.com/watch?v=q8cj9Lj9w-g)
+- [📘 ISO](https://www.youtube.com/watch?v=WEApLA-YNko)
 - [ISO](https://youtu.be/ZWSvHBG7X0w)
-- [Aperture](https://www.youtube.com/watch?v=YojL7UQTVhc) | fundamental | video
-- [Aperture & DOF](https://www.youtube.com/watch?v=EdxKl5np9KE) | fundamental | video
-- [Bokeh](https://www.youtube.com/watch?v=MnnkKI2sTZ8) | intermediate | video
-- [Shutter speed](https://www.youtube.com/watch?v=7R9ZTxoTOSk) | fundamental | video
-- [Focal length](https://www.youtube.com/watch?v=4CoEsqePADw) | fundamental | video
-- [Crop factor](https://www.youtube.com/watch?v=F69JnSoWeCI) | fundamental | video
-- [Crop factor](https://www.youtube.com/watch?v=hi_CkZ0sGAw) | fundamental | video
-- [Crop factor, speed boosting, image circle](https://www.youtube.com/watch?v=LxZe4MuM8_Q) | fundamental | video
-- [Dynamic range](https://www.youtube.com/watch?v=yxj01pealg0) | fundamental | video
-- [Dynamic range](https://www.youtube.com/watch?v=MfvwqcmM6FQ) | fundamental | video
-- [Explanation of F stops](https://www.youtube.com/watch?v=KmNIouLByJQ) | advanced | video
-- [Explanation of depth of field](https://www.youtube.com/watch?v=34jkJoN8qOI) | advanced | video
-- [What is a speedbooster](https://www.youtube.com/watch?v=louG2350wmo) | intermediate | video
-- [Gamma](https://www.viewsonic.com/es/colorpro/articles/detail/accurate-gamma_655) | intermediate | article
+- [📘 Aperture](https://www.youtube.com/watch?v=YojL7UQTVhc)
+- [📘 Aperture & DOF](https://www.youtube.com/watch?v=EdxKl5np9KE)
+- [Bokeh](https://www.youtube.com/watch?v=MnnkKI2sTZ8)
+- [📘 Shutter speed](https://www.youtube.com/watch?v=7R9ZTxoTOSk)
+- [📘 Focal length](https://www.youtube.com/watch?v=4CoEsqePADw)
+- [📘 Crop factor](https://www.youtube.com/watch?v=F69JnSoWeCI)
+- [📘 Crop factor](https://www.youtube.com/watch?v=hi_CkZ0sGAw)
+- [📘 Crop factor, speed boosting, image circle](https://www.youtube.com/watch?v=LxZe4MuM8_Q)
+- [📘 Dynamic range](https://www.youtube.com/watch?v=yxj01pealg0)
+- [📘 Dynamic range](https://www.youtube.com/watch?v=MfvwqcmM6FQ)
+- [Explanation of F stops](https://www.youtube.com/watch?v=KmNIouLByJQ)
+- [Explanation of depth of field](https://www.youtube.com/watch?v=34jkJoN8qOI)
+- [What is a speedbooster](https://www.youtube.com/watch?v=louG2350wmo)
+- [Gamma](https://www.viewsonic.com/es/colorpro/articles/detail/accurate-gamma_655)
 - [Gamma](https://www.benq.com/en-us/knowledge-center/knowledge/gamma-monitor.html)
 - [Mechanical vs electronic shutter](https://www.youtube.com/watch?v=V5YHMhO5n1k)
 - [Photography theoretical basics compilation](https://www.cambridgeincolour.com/learn-photography-concepts.htm)
 
 ## Camera Usage
-- [Auto Exposure Lock](https://www.youtube.com/watch?v=ZLNrRS9LRd4) | fundamental | video
-- [Back button focus](https://www.youtube.com/watch?v=8PN9R0D3pF0) | intermediate | video
+- [📘 Auto Exposure Lock](https://www.youtube.com/watch?v=ZLNrRS9LRd4)
+- [🟡 Back button focus](https://www.youtube.com/watch?v=8PN9R0D3pF0)
 - [Rear curtain sync with flash](https://www.youtube.com/watch?v=_zlvVBDKbhI)
 - [Rear curtain sync with flash](https://www.youtube.com/watch?v=ai-L2OLH7ZQ)
 
